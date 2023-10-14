@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+h1{
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+table {
+  margin-left: 35px;
+  width: 95%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+table th,
+table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  color: white;
+  background-color: black;
+}
+
+table th{
+  font-size: 16px;
+  font-weight: bolder;
+}
